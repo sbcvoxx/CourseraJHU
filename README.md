@@ -1,2 +1,2 @@
 # CourseraJHU
-Coursera HTML, CSS and Javascript by John Hopkins
+Coursera HTML, CSS and Javascript by John Hopkins University
